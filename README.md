@@ -1,5 +1,5 @@
 Hi I am Aditya Patil from Mumbai.
 
-Currently working as Software Engineer.
+Currently working as Senior Software Engineer.
 
-Skills: Devops, Kubenetes, Docker, AWS, Linux, Shell scripting, Ansible, Jenkins
+Skills: Devops, Kubenetes, Cloud (AWS/Azure).
