@@ -1,7 +1,6 @@
 
 <!--
 Tip: Create a repo named exactly your username: github.com/AdityaPatil19/AdityaPatil19
-This README will appear on your profile.
 -->
 
 <!-- Header -->
@@ -12,24 +11,23 @@ This README will appear on your profile.
 
 <h1 align="center">Hi, I’m <span style="color:#1f6feb;">Aditya Patil</span> 👋</h1>
 <p align="center">
-  <b>Senior Software Engineer</b> —
-  DevOps • Cloud • Data Engineering • AIOps • MLOps • Monitoring & Observability
+  <b>Senior Software Engineer</b> — DevOps • Cloud • Data Engineering • AIOps • MLOps • Monitoring & Observability
 </p>
 
-<!-- Short intro -->
+<!-- Intro -->
 <p align="center">
-  I build <b>cloud‑native, reliable</b> systems and automate the path from code to production.<br/>
+  I build <b>cloud-native, reliable</b> systems and automate everything from code to production.<br/>
   Passionate about <i>clean architecture</i>, <i>operational excellence</i>, and <i>developer experience</i>.
 </p>
 
-<!-- Skills badges (accessible color palette; dark/light friendly) -->
+<!-- Skills badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-AWS%20|%20Azure-0ea5e9?style=flat&labelColor=0d1117" alt="Cloud: AWS | Azure" />
   <img src="https://img.shields.io/badge/Containers-Docker%20|%20Kubernetes-22c55e?style=flat&labelColor=0d1117" alt="Containers: Docker | Kubernetes" />
   <img src="https://img.shields.io/badge/IaC-Terraform-8b5cf6?style=flat&labelColor=0d1117" alt="IaC: Terraform" />
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20|%20Jenkins-f59e0b?style=flat&labelColor=0d1117" alt="CI/CD: GitHub Actions | Jenkins" />
   <img src="https://img.shields.io/badge/Observability-Prometheus%20|%20Grafana-ef4444?style=flat&labelColor=0d1117" alt="Observability: Prometheus | Grafana" />
-  <img src="https://img.shields.io/badge/Data-Apache%20Spark%20|%20Airflow-14b8a6?style=flat&labelColor=0d1117" alt="Data: Spark | Flink | Airflow" />
+  <img src="https://img.shields.io/badge/Data-Spark%20|%20Airflow%20|%20Flink-14b8a6?style=flat&labelColor=0d1117" alt="Data: Spark | Airflow | Flink" />
   <img src="https://img.shields.io/badge/ML-MLOps%20|%20MLflow-84cc16?style=flat&labelColor=0d1117" alt="ML: MLOps | MLflow" />
 </p>
 
@@ -42,12 +40,12 @@ This README will appear on your profile.
 
 ---
 
-### 🛠️ Core Stack
+### 🛠️ Core Tech Stack
 - **Languages:** Python · Go · Java · Bash  
 - **Cloud:** AWS · Azure  
 - **Platform:** Docker · Kubernetes · Helm  
-- **IaC & Pipelines:** Terraform · GitHub Actions · Jenkins · Argo CD · Gitlab
-- **Data:** Apache Spark · Airflow · Kafka · dbt · Flink · Pathway
+- **IaC & Pipelines:** Terraform · GitHub Actions · Jenkins · Argo CD  · **Gitlab**
+- **Data Engineering:** Apache Spark · Apache Airflow · **Apache Flink** · **Pathway** · **Bytewax**  
 - **MLOps/AIOps:** MLflow · Model Registry · Feature Stores · Drift/Anomaly Detection  
 - **Monitoring & Observability:** Prometheus · Grafana · Loki · OpenTelemetry · ELK
 
@@ -59,7 +57,7 @@ This README will appear on your profile.
 - **MLOps Pipeline** — Reproducible training, CI/CD for models, live drift monitoring and alerts.  
   `MLflow · Airflow · Feature Store · Model Registry`
 - **Data Lakehouse ETL** — Batch + streaming ingestion, data quality gates, lineage & governance.  
-  `Spark · Kafka · Delta/Parquet · Great Expectations`
+  `Spark · Flink · Kafka · Delta/Parquet · Great Expectations`
 
 
 ---
@@ -70,10 +68,10 @@ This README will appear on your profile.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaPatil19&layout=compact&langs_count=8&theme=transparent&hide_title=true" alt="Top Languages" />
 </p>
 
-<!-- Optional activity graph: uncomment if you prefer more visuals -->
+<!-- Optional activity graph -->
 <!--
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPatil19&theme=github-compact&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaPatil19&theme=github-compact&area=true" alt="Activity Graph" />
 </p>
 -->
 
@@ -86,15 +84,7 @@ This README will appear on your profile.
 
 ### 🤝 Connect
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
-
-
