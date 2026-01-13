@@ -29,7 +29,7 @@ This README will appear on your profile.
   <img src="https://img.shields.io/badge/IaC-Terraform-8b5cf6?style=flat&labelColor=0d1117" alt="IaC: Terraform" />
   <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20|%20Jenkins-f59e0b?style=flat&labelColor=0d1117" alt="CI/CD: GitHub Actions | Jenkins" />
   <img src="https://img.shields.io/badge/Observability-Prometheus%20|%20Grafana-ef4444?style=flat&labelColor=0d1117" alt="Observability: Prometheus | Grafana" />
-  <img src="https://img.shields.io/badge/Data-Apache%20Spark%20|%20Airflow-14b8a6?style=flat&labelColor=0d1117" alt="Data: Spark | Airflow" />
+  <img src="https://img.shields.io/badge/Data-Apache%20Spark%20|%20Airflow-14b8a6?style=flat&labelColor=0d1117" alt="Data: Spark | Flink | Airflow" />
   <img src="https://img.shields.io/badge/ML-MLOps%20|%20MLflow-84cc16?style=flat&labelColor=0d1117" alt="ML: MLOps | MLflow" />
 </p>
 
@@ -46,8 +46,8 @@ This README will appear on your profile.
 - **Languages:** Python · Go · Java · Bash  
 - **Cloud:** AWS · Azure  
 - **Platform:** Docker · Kubernetes · Helm  
-- **IaC & Pipelines:** Terraform · GitHub Actions · Jenkins · Argo CD  
-- **Data:** Apache Spark · Airflow · Kafka · dbt  
+- **IaC & Pipelines:** Terraform · GitHub Actions · Jenkins · Argo CD · Gitlab
+- **Data:** Apache Spark · Airflow · Kafka · dbt · Flink · Pathway
 - **MLOps/AIOps:** MLflow · Model Registry · Feature Stores · Drift/Anomaly Detection  
 - **Monitoring & Observability:** Prometheus · Grafana · Loki · OpenTelemetry · ELK
 
