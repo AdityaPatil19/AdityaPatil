@@ -3,7 +3,7 @@
 ![Header](https://img.shields.io/badge/Senior%20Software%20Engineer-%F0%9F%9A%80-blue?style=for-the-badge)
 
 # 👋 Hi, I'm Aditya Patil  
-### 🚀 Senior Software Engineer | DevOps | Cloud | MLOps | AIOps | Data Engineering
+### 🚀 Senior Software Engineer | DevOps | Cloud | Data Engineering | AIOps | MLOps
 
 ---
 
@@ -21,11 +21,14 @@ I love designing scalable systems, automating workflows, and leveraging AI-drive
 ![Data Engineering]
 
 **Languages:** `Python` | `Java` | `Go` | `Shell`  
-**Tools:** `Docker` | `Kubernetes` | `Terraform` | `CI/CD` | `Prometheus` | `Grafana`
+**Tools:** `Docker` | `Kubernetes` | `Terraform` | `CI/CD` | `Observsbility`
 
 ---
 
+
 ## 📊 GitHub Stats
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
