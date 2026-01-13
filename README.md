@@ -1,5 +1,46 @@
-Hi I am Aditya Patil from Mumbai.
 
-Currently working as Senior Software Engineer.
+<!-- Banner -->
+![Header](https://img.shields.io/badge/Senior%20Software%20Engineer-%F0%9F%9A%80-blue?style=for-the-badge)
 
-Skills: Devops, Kubenetes, Cloud (AWS/Azure).
+# 👋 Hi, I'm Aditya Patil  
+### 🚀 Senior Software Engineer | DevOps | Cloud | MLOps | AIOps | Data Engineering
+
+---
+
+## 🌟 About Me
+I’m a passionate **Senior Software Engineer** with expertise in **DevOps, Cloud, MLOps, AIOps, and Data Engineering**.  
+I love designing scalable systems, automating workflows, and leveraging AI-driven solutions to optimize operations.
+
+---
+
+## 🛠 Tech Arsenal
+![DevOps]
+![Cloud]
+![MLOps]
+![AIOps]
+![Data Engineering]
+
+**Languages:** `Python` | `Java` | `Go` | `Shell`  
+**Tools:** `Docker` | `Kubernetes` | `Terraform` | `CI/CD` | `Prometheus` | `Grafana`
+
+---
+
+## 📊 GitHub Stats
+
+---
+
+## 🔥 Featured Projects
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn]
+
+
+---
+
+## 💡 Fun Fact
+_"Automate everything that can be automated."_  
+
+⭐ **Explore my repositories and let’s collaborate!**
+
