@@ -61,10 +61,6 @@ This README will appear on your profile.
 - **Data Lakehouse ETL** — Batch + streaming ingestion, data quality gates, lineage & governance.  
   `Spark · Kafka · Delta/Parquet · Great Expectations`
 
-> Replace with your repo links:
-> - https://github.com/AdityaPatil19/cloud-gitops
-> - https://github.com/AdityaPatil19/mlops-pipeline
-> - https://github.com/AdityaPatil19/data-lakehouse
 
 ---
 
@@ -101,7 +97,4 @@ This README will appear on your profile.
   </a>
 </p>
 
-<!-- Footer -->
-<p align="center">
-  <sub>Designed for clarity, contrast, and speed — looks great in light and dark mode. 🖤</sub>
-</p>
+
