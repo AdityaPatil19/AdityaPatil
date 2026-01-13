@@ -34,7 +34,8 @@ I love designing scalable systems, automating workflows, and leveraging AI-drive
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile) 
+( https://www.linkedin.com/in/aditya-patil-0a3895114/ )
 
 
 ---
