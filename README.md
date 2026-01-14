@@ -94,4 +94,3 @@ Tip: Create a repo named exactly your username: github.com/AdityaPatil19/AdityaP
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
-``
