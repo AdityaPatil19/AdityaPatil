@@ -98,8 +98,10 @@ https://github.com/AdityaPatil19/AdityaPatil19
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
+
 <!-- Footer -->
 <p align="center">
-  <sub>Designed for clarity, contrast, and speed — looks great in light and dark mode. 🖤</sub>
+  <sub>⚡ Built with ❤️ for DevOps, Cloud, and Data Engineering • Automate • Innovate • Scale 🚀</sub>
 </p>
+
 
