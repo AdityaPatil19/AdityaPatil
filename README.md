@@ -3,39 +3,46 @@
 Tip: Create a repo named exactly your username: github.com/AdityaPatil19/AdityaPatil19
 -->
 
-<!-- Header -->
+<!-- ====== Header (Hero) ====== -->
 <p align="center">
   <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-1f6feb?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Role Badge" />
-  <img src="https://komarev.com/ghpvc/?username=AdityaPatil19&style=for-the-badge&color=1f6feb&label=Profile%20Views" alt="Profile Views" />
+  <a href="https://hits.sh/github.com/AdityaPatil19/">
+    <img src="https://hits.sh/github.com/AdityaPatil19.svg?style=for-the-badge&color=1f6feb&label=Profile%20Views" alt="Profile Views (Hits.sh)" />
+  </a>
 </p>
 
 <h1 align="center">Hi, I’m <span style="color:#1f6feb;">Aditya Patil</span> 👋</h1>
-<p align="center">
-  <b>Senior Software Engineer</b> — DevOps • Cloud • Data Engineering • AIOps • MLOps • Monitoring & Observability
+<p align="center" style="font-size:1.05rem;">
+  <b>Senior Software Engineer</b> — DevOps • Cloud • Data Engineering • AIOps • MLOps • Monitoring &amp; Observability
 </p>
 
-<!-- Intro -->
+<!-- ====== Intro (Concise Value Proposition) ====== -->
 <p align="center">
-  I build <b>cloud-native, reliable</b> systems and automate everything from code to production.<br/>
-  Passionate about <i>clean architecture</i>, <i>operational excellence</i>, and <i>developer experience</i>.
+  I build <b>cloud-native, resilient</b> platforms and <b>automate</b> delivery from commit to production.<br/>
+  Passionate about <i>clean architecture</i>, <i>SRE practices</i>, and <i>developer experience</i>.
 </p>
 
-<!-- Skills badges -->
+<!-- ====== Skills / Tech Badges (Accessible Palette) ====== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Cloud-AWS%20|%20Azure-0ea5e9?style=flat&labelColor=0d1117" alt="Cloud: AWS | Azure" />
-  <img src="https://img.shields.io/badge/Containers-Docker%20|%20Kubernetes-22c55e?style=flat&labelColor=0d1117" alt="Containers: Docker | Kubernetes" />
-  <img src="https://img.shields.io/badge/IaC-Terraform-8b5cf6?style=flat&labelColor=0d1117" alt="IaC: Terraform" />
-  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20|%20Jenkins-f59e0b?style=flat&labelColor=0d1117" alt="CI/CD: GitHub Actions | Jenkins" />
-  <img src="https://img.shields.io/badge/Observability-Prometheus%20|%20Grafana-ef4444?style=flat&labelColor=0d1117" alt="Observability: Prometheus | Grafana" />
-  <img src="https://img.shields.io/badge/Data-Spark%20|%20Airflow%20|%20Flink-14b8a6?style=flat&labelColor=0d1117" alt="Data: Spark | Airflow | Flink" />
-  <img src="https://img.shields.io/badge/ML-MLOps%20|%20MLflow-84cc16?style=flat&labelColor=0d1117" alt="ML: MLOps | MLflow" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20|%20Azure-0ea5e9?style=flat&labelColor=0d1117&logo=amazon-aws&logoColor=white" alt="Cloud: AWS | Azure" />
+  <img src="https://img.shields.io/badge/Containers-Docker%20|%20Kubernetes-22c55e?style=flat&labelColor=0d1117&logo=docker&logoColor=white" alt="Containers: Docker | Kubernetes" />
+  <img src="https://img.shields.io/badge/IaC-Terraform-8b5cf6?style=flat&labelColor=0d1117&logo=terraform&logoColor=white" alt="IaC: Terraform" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20|%20Jenkins-f59e0b?style=flat&labelColor=0d1117&logo=githubactions&logoColor=white" alt="CI/CD: GitHub Actions | Jenkins" />
+  <img src="https://img.shields.io/badge/Observability-Prometheus%20|%20Grafana-ef4444?style=flat&labelColor=0d1117&logo=prometheus&logoColor=white" alt="Observability: Prometheus | Grafana" />
+  <img src="https://img.shields.io/badge/Data-Apache%20Spark%20|%20Airflow%20|%20Flink-14b8a6?style=flat&labelColor=0d1117&logo=apache-spark&logoColor=white" alt="Data: Spark | Airflow | Flink" />
+  <img src="https://img.shields.io/badge/ML-MLOps%20|%20MLflow-84cc16?style=flat&labelColor=0d1117&logo=mlflow&logoColor=white" alt="ML: MLOps | MLflow" />
+</p>
+
+<!-- Optional: Streaming frameworks quick badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Streaming-Flink%20|%20Pathway%20|%20Bytewax-1f6feb?style=flat&labelColor=0d1117" alt="Streaming: Flink | Pathway | Bytewax" />
 </p>
 
 ---
 
 ### 🧭 About
-- I design **scalable, observable** platforms with **automation-first** practices.
-- I love solving **reliability** and **performance** problems using **data-driven insights**.
+- I design **scalable, observable** platforms with **automation-first** workflows.
+- I solve **reliability** and **performance** issues using **data-driven insights**.
 - Focus areas: **DevOps**, **Cloud Architecture**, **Data Pipelines**, **AIOps/MLOps**, **SRE**.
 
 ---
@@ -44,7 +51,7 @@ Tip: Create a repo named exactly your username: github.com/AdityaPatil19/AdityaP
 - **Languages:** Python · Go · Java · Bash  
 - **Cloud:** AWS · Azure  
 - **Platform:** Docker · Kubernetes · Helm  
-- **IaC & Pipelines:** Terraform · GitHub Actions · Jenkins · Argo CD  · **Gitlab**
+- **IaC & Pipelines:** Terraform · GitHub Actions · Jenkins · Argo CD · GitLab  
 - **Data Engineering:** Apache Spark · Apache Airflow · **Apache Flink** · **Pathway** · **Bytewax**  
 - **MLOps/AIOps:** MLflow · Model Registry · Feature Stores · Drift/Anomaly Detection  
 - **Monitoring & Observability:** Prometheus · Grafana · Loki · OpenTelemetry · ELK
@@ -58,7 +65,6 @@ Tip: Create a repo named exactly your username: github.com/AdityaPatil19/AdityaP
   `MLflow · Airflow · Feature Store · Model Registry`
 - **Data Lakehouse ETL** — Batch + streaming ingestion, data quality gates, lineage & governance.  
   `Spark · Flink · Kafka · Delta/Parquet · Great Expectations`
-
 
 ---
 
@@ -88,3 +94,4 @@ Tip: Create a repo named exactly your username: github.com/AdityaPatil19/AdityaP
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
+``
