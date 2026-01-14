@@ -8,7 +8,7 @@ https://github.com/AdityaPatil19/AdityaPatil19
 <p align="center">
   <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-1f6feb?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=white" alt="Role Badge" />
   <a href="https://hits.sh/github.com/AdityaPatil19/">
-    <img src="https://hits.sh/github.com/AdityaPatil19.svg?style=for-the-badge&color=1f6feb&label=Profile%20Views&exclude=202.3.121.4" alt="Profile Views" />
+    <img src="https://hits.sh/github.com/AdityaPatil19.svg?style=for-the-badge&color=1f6feb&label=Profile%20Views" alt="Profile Views (Hits.sh)" />
   </a>
 </p>
 
